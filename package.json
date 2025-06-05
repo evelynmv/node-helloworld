@@ -1,7 +1,7 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "",
+  "description": "Making Hello World! Let's see this in render!",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
